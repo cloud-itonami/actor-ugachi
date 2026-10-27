@@ -1,6 +1,6 @@
 # ugachi (穿ち) — the §2(l) extraction RISK-GATE
 
-Canonical repository: `etzhayyim/actor-ugachi`. This governed executable
+Canonical repository: `cloud-itonami/actor-ugachi`. This governed executable
 organ belongs to the Tamaki-centered Etzhayyim artificial organism. It owns
 the extraction-risk assessment boundary, never organism-level authority or
 physical actuation. The former `com-etzhayyim-ugachi` name remains a
