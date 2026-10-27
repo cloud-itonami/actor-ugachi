@@ -7,6 +7,6 @@
  :profile/id "actor-ugachi"
  :profile/default? true
  :bot/name "actor-ugachi"
- :bot/brief "etzhayyim/actor-ugachi の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-ugachi"}]
+ :bot/brief "cloud-itonami/actor-ugachi の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-ugachi"}]
  :bot/tools-requested []}
